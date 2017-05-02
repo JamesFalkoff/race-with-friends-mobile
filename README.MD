@@ -1,6 +1,6 @@
 # Race With Friends - mobile side
 
-> A mobile fitness app that enables realtime competition between users.
+Race with Friends is a social fitness app built on React Native that enables real-time competition between users. Runners are able to race against live opponents (via websockets) or recordings of their friends' runs while receiving real-time audio and haptic feedback based on their progress vs. the real or simulated opponent.
 
 ![Screenshots](http://sscchan.github.io/blog/content/images/2017/04/RwfScreenSideBySide.png)
 
